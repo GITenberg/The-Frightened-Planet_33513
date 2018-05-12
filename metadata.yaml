@@ -1,0 +1,25 @@
+_repo: The-Frightened-Planet_33513
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33513-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Austen, Sidney
+    gutenberg_agent_id: '36446'
+    url: http://www.gutenberg.org/2009/agents/36446
+description: ''
+gutenberg_issued: '2010-08-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33513'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+title: The Frightened Planet
+url: http://www.gutenberg.org/ebooks/33513
